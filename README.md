@@ -1,1 +1,2 @@
 # zeabur-serverless
+example
